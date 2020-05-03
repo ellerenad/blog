@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "Enrique Llerena Dominguez"
-subtitle: "Welcome to my personal blog!"
-email: ellerenad gmail com
+title: "I Enjoy Software Development!"
+subtitle: "A blog by Enrique Llerena Dominguez"
+email: hello@ienjoysoftware.dev
 name: Enrique Llerena Dominguez
 description: >
   © 2020 - Enrique Llerena Dominguez, with ❤️
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ellerenad.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ienjoysoftware.dev" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 cover_credits: Photo by Enrique Llerena Dominguez @ Nuevo Vallarta, Mexico
 logo:
@@ -193,6 +193,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/ellerenad/ellerenad.github.io"
+    os_repo: "https://github.com/ellerenad/blog"
     os_rcs_type: "git"
-    os_src: "git@github.com:ellerenad/ellerenad.github.io"
+    os_src: "git@github.com:ellerenad/blog"
