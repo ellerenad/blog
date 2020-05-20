@@ -11,14 +11,14 @@ Hello! I am Enrique Llerena Dominguez, Software Engineer.
 This is my blog, where I share stuff about my interests, mostly Software Engineering.
 
 I fell in love with software engineering in 2004 and made my first paid project in 2007. 
-Ever since, I have worked with different technology stacks and tools, for the retail-, pharma-, automotive, and financial industries.
+Ever since, I have worked with different technology stacks and tools, for the retail, pharma, automotive, and financial industries.
 For the last few years, I have focused on the Java ecosystem.
 At the moment I am a Senior Software Engineer at [mimacom Deutschland GmbH][mimacom]. ([Join us!][mimacomcareer]).
 
 My interests are machine learning, cloud computing, and software architecture. I also like football (both american and the real one ;) ).
 I am a native spanish speaker, and also speak english and german fluently.
 
-Certifications:
+#### Certifications:
 - iSAQB Certified Professional for Software Architecture - Foundation level
 - AWS Certified Solutions Architect - Associate
 - Oracle Certified Professional Java Programmer
@@ -27,7 +27,7 @@ Certifications:
 - telc Deutsch C1
 - TOEFL IBT (English) 
 
-Talks:
+#### Talks:
 - (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (10/2019,
 EclipseCon Europe 2019, [video][eclipsecon_roboarmcontroller_video]/[slides][eclipsecon_roboarmcontroller_slides])
 - (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (7/2019, Java
