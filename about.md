@@ -35,7 +35,7 @@ Forum Stuttgart, [Link][JFS_roboarmcontroller])
 - (English) Getting Started with Mindsphere – How to close the Gap Between Software and Industry (11/2019,
 Mindsphere Meetup Stuttgart [video][mimacom_mindsphere_meetup_1])
 - (German) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (5/2020, AI Pioneers Meetup, [video][ai_pioneers_meetup_0520])
-- (Spanish) TV Interviews (video[tv_interview_udg], video[tv_interview_canal6]
+- (Spanish) TV Interviews ([video1][tv_interview_udg], [video2][tv_interview_canal6])
 - (Spanish) La industria de los videojuegos: una oportunidad de negocio. Semana Jalisco Emprende 2011. (The videogames industry: a business oportunity, Jalisco Entrepeneurship Week 2011)
 - Several internal short presentations of the product increments to large audiences
 
