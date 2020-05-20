@@ -11,14 +11,14 @@ Hello! I am Enrique Llerena Dominguez, Software Engineer.
 This is my blog, where I share stuff about my interests, mostly Software Engineering.
 
 I fell in love with software engineering in 2004 and made my first paid project in 2007. 
-Ever since, I have worked with different technology stacks and tools, for the retail-, pharma-, automotive, and financial industries.
+Ever since, I have worked with different technology stacks and tools, for the retail, pharma, automotive, and financial industries.
 For the last few years, I have focused on the Java ecosystem.
 At the moment I am a Senior Software Engineer at [mimacom Deutschland GmbH][mimacom]. ([Join us!][mimacomcareer]).
 
 My interests are machine learning, cloud computing, and software architecture. I also like football (both american and the real one ;) ).
 I am a native spanish speaker, and also speak english and german fluently.
 
-Certifications:
+#### Certifications:
 - iSAQB Certified Professional for Software Architecture - Foundation level
 - AWS Certified Solutions Architect - Associate
 - Oracle Certified Professional Java Programmer
@@ -27,13 +27,16 @@ Certifications:
 - telc Deutsch C1
 - TOEFL IBT (English) 
 
-Conferences:
-- Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (10/2019,
+#### Talks:
+- (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (10/2019,
 EclipseCon Europe 2019, [video][eclipsecon_roboarmcontroller_video]/[slides][eclipsecon_roboarmcontroller_slides])
-- Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (7/2019, Java
+- (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (7/2019, Java
 Forum Stuttgart, [Link][JFS_roboarmcontroller])
-- Getting Started with Mindsphere – How to close the Gap Between Software and Industry (11/2019,
+- (English) Getting Started with Mindsphere – How to close the Gap Between Software and Industry (11/2019,
 Mindsphere Meetup Stuttgart [video][mimacom_mindsphere_meetup_1])
+- (German) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (5/2020, AI Pioneers Meetup, [video][ai_pioneers_meetup_0520])
+- (Spanish) TV Interviews (video[tv_interview_udg], video[tv_interview_canal6]
+- (Spanish) La industria de los videojuegos: una oportunidad de negocio. Semana Jalisco Emprende 2011. (The videogames industry: a business oportunity, Jalisco Entrepeneurship Week 2011)
 - Several internal short presentations of the product increments to large audiences
 
 #### Disclaimer
@@ -78,3 +81,6 @@ Centrarium is a custom theme for [Jekyll][jekyll], made by [Ben Centra][bencentr
 [eclipsecon_roboarmcontroller_video]: http://www.youtube.com/watch?v=JWlY6wcq-mY
 [eclipsecon_roboarmcontroller_slides]: https://www.eclipsecon.org/europe2019/sessions/prototyping-robot-arm-controller-getting-hands-dirty-learn-new-technologies
 [mimacom_mindsphere_meetup_1]: https://www.youtube.com/watch?v=oWWcAps3QB4
+[ai_pioneers_meetup_0520]: http://www.youtube.com/watch?v=3BJCXpBOUgM&t=16m26s
+[tv_interview_canal6]: https://www.youtube.com/watch?v=yfTvWXNrIOE
+[tv_interview_udg]: https://www.youtube.com/watch?v=wP9zBDkbT6U

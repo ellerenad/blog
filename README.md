@@ -1,5 +1,5 @@
 # Description
-This is the repository for my blog, [ellerenad.github.io](ellerenad.github.io)
+This is the repository for my blog, [ienjoysoftware.dev](https://ienjoysoftware.dev)
 
 ------------------------------------------------------------------------
 # Template information
