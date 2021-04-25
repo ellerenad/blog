@@ -55,9 +55,23 @@
         createCookie(name,"",-1);
     }
 
-    if(readCookie('cookie-notice-accepted')=='true') {
-        {% include ga.js %}
+	function getGtagScript() {
+			var s = document.createElement('script');
+			s.type = "text/javascript"
+			s.async = "true";
+			s.src = "https://www.googletagmanager.com/gtag/js?id=G-2C2BBJ9YL1";
+			var x = document.getElementsByTagName('script')[0];
+			x.parentNode.insertBefore(s, x);
 
+			// you can add facebook-pixel and other cookies here
+	};
+
+    if(readCookie('cookie-notice-accepted')=='true') {
+      getGtagScript();
+      window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-2C2BBJ9YL1', {'anonymize_ip': true});
     } else {
         document.getElementById('cookie-notice').style.display = 'grid';
     }
