@@ -7,20 +7,27 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile_image.jpg "Profile Picture"){:.profile}
 
-Hello! I am Enrique Llerena Dominguez, Software Engineer.
+Hello! I am Enrique Llerena Dominguez, Senior Software Engineer and Tech Lead, currently employed at [mimacom Deutschland GmbH][mimacom]. ([Join us!][mimacomcareer]).
 This is my blog, where I share stuff about my interests, mostly Software Engineering.
 
-I fell in love with software engineering in 2004 and made my first paid project in 2007. 
-Ever since, I have worked with different technology stacks and tools, for the retail, pharma, automotive, and financial industries.
-For the last few years, I have focused on the Java ecosystem.
-At the moment I am a Senior Software Engineer at [mimacom Deutschland GmbH][mimacom]. ([Join us!][mimacomcareer]).
+I am a well-rounded Senior Software Engineer. My communication skills and empathy enable me to collaborate effectively with interdisciplinary teams and to take the technical leadership whenever it is required, even without an official designation.
 
-My interests are machine learning, cloud computing, and software architecture. I also like football (both american and the real one ;) ).
+From a technical perspective, I focus mainly on backend development, but I have also frontend, DevOps, and cloud computing skills, as well as experience with the design and documentation of the architecture of complex systems. I have worked with agile methodologies. I like to invest time learning other technologies, e.g. machine learning,  and I like presenting talks in conferences, which I have done in English, German and Spanish.
+
+**Core technologies**: java,  spring,  python, terraform, aws, angular, SQL.
+
+**Interest in:** machine learning,  software architecture,  software engineering,  cloud computing.
+
+I fell in love with software engineering in high school in 2004 and made my first paid project in 2007. 
+
+I also like football (both american and the real one ;) ).
 I am a native spanish speaker, and also speak english and german fluently.
 
 #### Certifications:
 - iSAQB Certified Professional for Software Architecture - Foundation level
 - AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified Cloud Practitioner
 - Oracle Certified Professional Java Programmer
 - Oracle certified Expert, Web component developer
 - Professional Scrum Master I
@@ -28,13 +35,15 @@ I am a native spanish speaker, and also speak english and german fluently.
 - TOEFL IBT (English) 
 
 #### Talks:
+- (Spanish) Machine Learning with Java? Deeplearning4j! (12/2020, Posadev Guadalajara, [video][posadev_gdl_2020])
+- (English) Machine Learning with Java? Deeplearning4j! (09/2020, Java Forum Stuttgart)
+- (German) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (5/2020, AI Pioneers Meetup, [video][ai_pioneers_meetup_0520])
 - (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (10/2019,
 EclipseCon Europe 2019, [video][eclipsecon_roboarmcontroller_video]/[slides][eclipsecon_roboarmcontroller_slides])
 - (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (7/2019, Java
 Forum Stuttgart, [Link][JFS_roboarmcontroller])
 - (English) Getting Started with Mindsphere – How to close the Gap Between Software and Industry (11/2019,
 Mindsphere Meetup Stuttgart [video][mimacom_mindsphere_meetup_1])
-- (German) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (5/2020, AI Pioneers Meetup, [video][ai_pioneers_meetup_0520])
 - (Spanish) TV Interviews ([video1][tv_interview_udg], [video2][tv_interview_canal6])
 - (Spanish) La industria de los videojuegos: una oportunidad de negocio. Semana Jalisco Emprende 2011. (The videogames industry: a business oportunity, Jalisco Entrepeneurship Week 2011)
 - Several internal short presentations of the product increments to large audiences
@@ -45,7 +54,7 @@ Even if I write this blog with passion, love, and dedication, trying to provide 
 
 The views, thoughts, and opinions expressed in this blog belong solely to the author, and not necessarily to the author's employer, organization, committee or other group or individual.
 
-Copyright (c) 2020 Enrique Llerena Dominguez
+Copyright (c) 2021 Enrique Llerena Dominguez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -84,3 +93,4 @@ Centrarium is a custom theme for [Jekyll][jekyll], made by [Ben Centra][bencentr
 [ai_pioneers_meetup_0520]: http://www.youtube.com/watch?v=3BJCXpBOUgM&t=16m26s
 [tv_interview_canal6]: https://www.youtube.com/watch?v=yfTvWXNrIOE
 [tv_interview_udg]: https://www.youtube.com/watch?v=wP9zBDkbT6U
+[posadev_gdl_2020]: https://youtube.com/watch?t=58m38s&v=86gGUzXdiyA
