@@ -34,19 +34,156 @@ I am a native spanish speaker, and also speak english and german fluently.
 - telc Deutsch C1
 - TOEFL IBT (English) 
 
-#### Talks:
-- (Spanish) Machine Learning with Java? Deeplearning4j! (12/2020, Posadev Guadalajara, [video][posadev_gdl_2020])
-- (English) Machine Learning with Java? Deeplearning4j! (09/2020, Java Forum Stuttgart)
-- (German) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (5/2020, AI Pioneers Meetup, [video][ai_pioneers_meetup_0520])
-- (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (10/2019,
-EclipseCon Europe 2019, [video][eclipsecon_roboarmcontroller_video]/[slides][eclipsecon_roboarmcontroller_slides])
-- (English) Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies (7/2019, Java
-Forum Stuttgart, [Link][JFS_roboarmcontroller])
-- (English) Getting Started with Mindsphere – How to close the Gap Between Software and Industry (11/2019,
-Mindsphere Meetup Stuttgart [video][mimacom_mindsphere_meetup_1])
-- (Spanish) TV Interviews ([video1][tv_interview_udg], [video2][tv_interview_canal6])
-- (Spanish) La industria de los videojuegos: una oportunidad de negocio. Semana Jalisco Emprende 2011. (The videogames industry: a business oportunity, Jalisco Entrepeneurship Week 2011)
-- Several internal short presentations of the product increments to large audiences
+#### Presentations / Public appearances:
+
+<table id="no-more-tables">
+ <thead>
+   <tr>
+     <th class="table-col-1">Date</th>
+     <th class="table-col-2">Title</th>
+     <th class="table-col-3">Event</th>
+     <th class="table-col-4">Language</th>
+     <th class="table-col-5">Links</th>
+    </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td data-title="Date" class="table-col-1">12/2020</td>
+     <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j!</td>
+     <td data-title="Event" class="table-col-3">Posadev Guadalajara</td>
+     <td data-title="Language" class="table-col-4">Spanish</td>
+     <td data-title="Links" class="table-col-5"><a href="https://youtube.com/watch?t=58m38s&amp;v=86gGUzXdiyA">video</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">09/2020</td>
+     <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j!</td>
+     <td data-title="Event" class="table-col-3">Java Forum Stuttgart</td>
+     <td data-title="Language" class="table-col-4">English</td>
+     <td data-title="Links" class="table-col-5"><a href="https://online.java-forum-stuttgart.de/b1/">video</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">05/2020</td>
+     <td data-title="Title" class="table-col-2">Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies</td>
+     <td data-title="Event" class="table-col-3">AI Pioneers Meetup</td>
+     <td data-title="Language" class="table-col-4">German</td>
+     <td data-title="Links" class="table-col-5"><a href="http://www.youtube.com/watch?v=3BJCXpBOUgM&amp;t=16m26s">video</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">11/2019</td>
+     <td data-title="Title" class="table-col-2">Getting Started with Mindsphere – How to close the Gap Between Software and Industry</td>
+     <td data-title="Event" class="table-col-3">Mindsphere Meetup Stuttgart</td>
+     <td data-title="Language" class="table-col-4">English</td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=oWWcAps3QB4">video</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">10/2019</td>
+     <td data-title="Title" class="table-col-2">Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies</td>
+     <td data-title="Event" class="table-col-3">EclipseCon Europe 2019</td>
+     <td data-title="Language" class="table-col-4">English</td>
+     <td data-title="Links" class="table-col-5"><a href="http://www.youtube.com/watch?v=JWlY6wcq-mY">video</a> <a href="https://www.eclipsecon.org/europe2019/sessions/prototyping-robot-arm-controller-getting-hands-dirty-learn-new-technologies">slides</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">07/2019</td>
+     <td data-title="Title" class="table-col-2">Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies</td>
+     <td data-title="Event" class="table-col-3">Java Forum Stuttgart</td>
+     <td data-title="Language" class="table-col-4">English</td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.java-forum-stuttgart.de/de/Vortr%E4ge+von+14.30+-+15.15+Uhr.html#D5">Link</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">10/2011</td>
+     <td data-title="Title" class="table-col-2">TV Interviews about the products of the startups I co-founded</td>
+     <td data-title="Event" class="table-col-3">&nbsp;</td>
+     <td data-title="Language" class="table-col-4">Spanish</td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=wP9zBDkbT6U">video1</a>, <a href="https://www.youtube.com/watch?v=yfTvWXNrIOE">video2</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">05/2011</td>
+     <td data-title="Title" class="table-col-2">La industria de los videojuegos: una oportunidad de negocio. (The video games industry: a business opportunity)</td>
+     <td data-title="Event" class="table-col-3">Semana Jalisco Emprende 2011</td>
+     <td data-title="Language" class="table-col-4">Spanish</td>
+     <td data-title="Links" class="table-col-5">&nbsp;</td>
+   </tr>
+ </tbody>
+</table>
+
+<style>
+@media only screen and (min-width: 800px) {
+  table, th, td {
+    padding: 0.5em;
+    word-break: break-word;
+  }
+  
+  .table-col-1 {
+    width: 15%;
+  
+  }
+  .table-col-2 {
+    width: 40%;
+  }
+  .table-col-3 {
+    width: 20%;
+  }
+  .table-col-4 {
+    width: 15%;
+  }
+  .table-col-5 {
+    width: 10%;
+  }
+}
+@media only screen and (max-width: 800px) {
+	
+	/* Force table to not be like tables anymore */
+	#no-more-tables table, 
+	#no-more-tables thead, 
+	#no-more-tables tbody, 
+	#no-more-tables th, 
+	#no-more-tables td, 
+	#no-more-tables tr { 
+		display: block; 
+	}
+ 
+	/* Hide table headers (but not display: none;, for accessibility) */
+	#no-more-tables thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+ 
+	#no-more-tables tr { border: 1px solid #ccc; }
+ 
+	#no-more-tables td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 35%; 
+		padding-right: 5%; 
+		white-space: normal;
+		text-align:left;
+	}
+ 
+	#no-more-tables td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+		text-align:left;
+		font-weight: bold;
+	}
+ 
+	/*
+	Label the data
+	*/
+	#no-more-tables td:before { content: attr(data-title); }
+}
+
+</style>
+
+
+
 
 #### Disclaimer
 
@@ -94,3 +231,4 @@ Centrarium is a custom theme for [Jekyll][jekyll], made by [Ben Centra][bencentr
 [tv_interview_canal6]: https://www.youtube.com/watch?v=yfTvWXNrIOE
 [tv_interview_udg]: https://www.youtube.com/watch?v=wP9zBDkbT6U
 [posadev_gdl_2020]: https://youtube.com/watch?t=58m38s&v=86gGUzXdiyA
+[jfs_2020]: https://online.java-forum-stuttgart.de/b1/
