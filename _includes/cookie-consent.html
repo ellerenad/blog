@@ -27,7 +27,7 @@
 
 </style>
 <div id="cookie-notice">
-	<div>This website uses Google Analytics for optimizing the content. Do you allow this?</div>
+	<div>This website uses cookies for optimizing the content. Do you allow this?</div>
 	<button id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</button>
 	<button id="cookie-notice-more-info" onclick="location.href='/privacy';" class="btn btn-primary btn-sm">More info</button>
 </div>
@@ -51,27 +51,31 @@
         }
         return null;
     }
+
     function eraseCookie(name) {
         createCookie(name,"",-1);
     }
 
-	function getGtagScript() {
-			var s = document.createElement('script');
-			s.type = "text/javascript"
-			s.async = "true";
-			s.src = "https://www.googletagmanager.com/gtag/js?id=G-2C2BBJ9YL1";
-			var x = document.getElementsByTagName('script')[0];
-			x.parentNode.insertBefore(s, x);
+		function getScript(src) {
+				var s = document.createElement('script');
+				s.type = "text/javascript"
+				s.async = "true";
+				s.src = src;
+				var x = document.getElementsByTagName('script')[0];
+				x.parentNode.insertBefore(s, x);
+		};
 
-			// you can add facebook-pixel and other cookies here
-	};
+		function addGoogleAnalytics() {
+				getScript("https://www.googletagmanager.com/gtag/js?id=G-2C2BBJ9YL1");
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-2C2BBJ9YL1', {'anonymize_ip': true});
+		};
 
     if(readCookie('cookie-notice-accepted')=='true') {
-      getGtagScript();
-      window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-			gtag('config', 'G-2C2BBJ9YL1', {'anonymize_ip': true});
+      addGoogleAnalytics();
+			getScript("https://platform.twitter.com/widgets.js");
     } else {
         document.getElementById('cookie-notice').style.display = 'grid';
     }
