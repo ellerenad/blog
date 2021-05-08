@@ -91,10 +91,17 @@ I am a native spanish speaker, and also speak english and german fluently.
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">10/2011</td>
-     <td data-title="Title" class="table-col-2">TV Interviews about the products of the startups I co-founded</td>
-     <td data-title="Event" class="table-col-3">&nbsp;</td>
+     <td data-title="Title" class="table-col-2">TV Interview: IXASOFT Enrique Llerena Domínguez en Medios UDG Noticias con Pablo Hernández  </td>
+     <td data-title="Event" class="table-col-3">Canal 44 Universidad de Guadalajara</td>
      <td data-title="Language" class="table-col-4">Spanish</td>
-     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=wP9zBDkbT6U">video1</a>, <a href="https://www.youtube.com/watch?v=yfTvWXNrIOE">video2</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=wP9zBDkbT6U">video</a></td>
+   </tr>
+   <tr>
+     <td data-title="Date" class="table-col-1">10/2011</td>
+     <td data-title="Title" class="table-col-2">TV Interview: Ixasoft en Canal 6 / A fondo / Enrique Llerena D.  </td>
+     <td data-title="Event" class="table-col-3">Canal 6 de Megacable</td>
+     <td data-title="Language" class="table-col-4">Spanish</td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=yfTvWXNrIOE">video</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">05/2011</td>
@@ -107,7 +114,7 @@ I am a native spanish speaker, and also speak english and german fluently.
 </table>
 
 <style>
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 768px) {
   table, th, td {
     padding: 0.5em;
     word-break: break-word;
@@ -130,7 +137,7 @@ I am a native spanish speaker, and also speak english and german fluently.
     width: 10%;
   }
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 768px) {
 	
 	/* Force table to not be like tables anymore */
 	#no-more-tables table, 
