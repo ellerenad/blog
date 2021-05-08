@@ -52,7 +52,7 @@ So, what do we have here?
     <tr>
         <td class="table-col-1"> Observation: </td>
         <td class="table-col-2">
-             Lose of 1-2 minutes every day looking around for the next host.
+             Loss of 1-2 minutes every day looking around for the next host.
         </td>
     </tr>
     <tr>
