@@ -172,7 +172,8 @@ table, th, td {
 }
 </style>
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We all like improving our processes and products by experimenting with them. But how can we be more effective? Have a look at my latest blog post :D <a href="https://t.co/BbDvV1fN64">https://t.co/BbDvV1fN64</a> <a href="https://twitter.com/hashtag/software?src=hash&amp;ref_src=twsrc%5Etfw">#software</a> <a href="https://twitter.com/hashtag/agile?src=hash&amp;ref_src=twsrc%5Etfw">#agile</a> <a href="https://twitter.com/hashtag/experiments?src=hash&amp;ref_src=twsrc%5Etfw">#experiments</a> <a href="https://twitter.com/hashtag/fun?src=hash&amp;ref_src=twsrc%5Etfw">#fun</a></p>&mdash; Enrique Llerena Dominguez (@ellerenad) <a href="https://twitter.com/ellerenad/status/1388238391653904384?ref_src=twsrc%5Etfw">April 30, 2021</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 # References:
 
