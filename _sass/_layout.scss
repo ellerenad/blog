@@ -27,11 +27,17 @@ ul.default {
 	@extend %default-ul;
 }
 
-code {
-	background-color: #eee;
-	display: inline-block;
-	border-radius: 3px;
-	padding: 0 3px;
+
+@media only screen and (max-width: 768px)  {
+	.highlighter-rouge {
+		overflow-x: scroll;
+		overflow-y: hidden;
+		white-space: nowrap;
+
+		.highlight {
+			display: inline-block;
+		}
+	}
 }
 
 blockquote {
@@ -42,9 +48,6 @@ blockquote {
 	padding-left: 3em;
 }
 
-pre code.hljs {
-	font-size: modular-scale(-1);
-}
 
 .image-credit {
 	float: right;
