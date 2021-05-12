@@ -28,17 +28,23 @@ ul.default {
 }
 
 
-@media only screen and (max-width: 768px)  {
-	.highlighter-rouge {
-		overflow-x: scroll;
-		overflow-y: hidden;
-		white-space: nowrap;
+.highlighter-rouge {
+	overflow-x: auto;
+	overflow-y: hidden;
+	white-space: nowrap;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  background-color:	#ededed;
+	border-radius: 0.5em;
 
-		.highlight {
-			display: inline-block;
-		}
+	.highlight {
+		display: inline-block;
 	}
 }
+
+
 
 blockquote {
 	color: $medium-gray;
