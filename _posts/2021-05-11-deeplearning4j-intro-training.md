@@ -414,6 +414,18 @@ And related to the hands-on example, the Iris data set, we saw:
 All the code for this example can be found at the repository [deeplearning4j-playground](https://github.com/ellerenad/deeplearning4j-playground){:target="_blank"},
 more specifically at the file [IrisClassifierTrainer.java](https://github.com/ellerenad/deeplearning4j-playground/blob/master/src/main/java/dev/ienjoysoftware/classification/IrisClassifierTrainer.java){:target="_blank"}
 
+I would love to see your tweets with feedback!
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Machine Learning with Java? Deeplearning4j! check out what this library is and how to train an export a model here 
+<a href="https://t.co/xovanvC2G5">https://t.co/xovanvC2G5</a>
+<a href="https://twitter.com/hashtag/java?src=hash&amp;ref_src=twsrc%5Etfw">#java</a> 
+<a href="https://twitter.com/hashtag/SoftwareEngineering?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareEngineering</a> 
+<a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> 
+<a href="https://twitter.com/hashtag/fun?src=hash&amp;ref_src=twsrc%5Etfw">#fun</a> 
+<a href="https://twitter.com/hashtag/IEnjoySoftwareDev?src=hash&amp;ref_src=twsrc%5Etfw">#IEnjoySoftwareDev</a>
+</p>&mdash; Enrique Llerena Dominguez (@ellerenad) 
+<a href="https://twitter.com/ellerenad/status/1392591266802814985?ref_src=twsrc%5Etfw">May 12, 2021</a></blockquote>
 
 # References
 
