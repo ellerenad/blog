@@ -170,7 +170,8 @@ will load all the data set directly),
 - And how many different classes are available (`CLASSES_COUNT = 3`, the 3 types of Iris flowers)
 
 ```java
-private static DataSet loadData(String path) throws IOException, InterruptedException {
+private static DataSet loadData(String path) throws IOException, 
+                                                    InterruptedException {
     DataSet allData;
     try (RecordReader recordReader = new CSVRecordReader(0, ',')) {
         recordReader.initialize(new FileSplit(new File(path)));
@@ -277,7 +278,8 @@ MultiLayerConfiguration configuration = getMultiLayerConfiguration();
 // Train Neural Network
 MultiLayerNetwork model = new MultiLayerNetwork(configuration);
 model.init();
-model.setListeners(new ScoreIterationListener(100)); //Print score every 100 parameter updates
+//Print score every 100 parameter updates
+model.setListeners(new ScoreIterationListener(100)); 
 
 // Do TRAIN_ITERATIONS = 1000 iterations to train the model
 for(int x = 0; x < TRAIN_ITERATIONS; x++) {
@@ -350,8 +352,10 @@ private void store(MultiLayerNetwork model,
         model.save(locationToSaveModel, false);
 
         // Storing the normalizer
-        File locationToSaveNormalizer = new File(outputPath + STORED_NORMALIZER_FILENAME);
-        NormalizerSerializer.getDefault().write(normalizer, locationToSaveNormalizer);
+        File locationToSaveNormalizer = new File(outputPath + 
+                                                    STORED_NORMALIZER_FILENAME);
+        NormalizerSerializer.getDefault().write(normalizer, 
+                                                    locationToSaveNormalizer);
         log.info("Model and normalizer stored at {}", outputPath);
     }
 ```
@@ -374,8 +378,10 @@ void testTrain() {
                                 .getResource(irisDataset).getPath();
 
     String outputPath = "models/iris_classification/";
-    IrisClassifierTrainer irisClassifierTrainer = new IrisClassifierTrainer(outputPath);
-    Evaluation evaluation = irisClassifierTrainer.train(irisDatasetPath, "unit_test");
+    IrisClassifierTrainer irisClassifierTrainer = 
+                                new IrisClassifierTrainer(outputPath);
+    Evaluation evaluation = irisClassifierTrainer.train(irisDatasetPath, 
+                                                            "unit_test");
 
     assertTrue(evaluation.accuracy() > MIN_ACCEPTABLE_ACCURACY);
 }
@@ -411,10 +417,10 @@ more specifically at the file [IrisClassifierTrainer.java](https://github.com/el
 
 # References
 
-[1] Mitchell, T. (1997), Machine Learning. http://www.cs.cmu.edu/~tom/mlbook.html , retrieved 08/2020
+[1] Mitchell, T. (1997), Machine Learning. <http://www.cs.cmu.edu/~tom/mlbook.html>{:style="word-break: break-word;"}{:target="_blank"} , retrieved 08/2020
 
-[2] Machine Learning, Wikpedia. https://en.wikipedia.org/wiki/Machine_learning , retrieved 05/2021
+[2] Machine Learning, Wikpedia. <https://en.wikipedia.org/wiki/Machine_learning>{:style="word-break: break-word;"}{:target="_blank"}   , retrieved 05/2021
 
-[3] Deep_learning, Wikipedia. https://en.wikipedia.org/wiki/Deep_learning , retrieved 05/2021
+[3] Deep_learning, Wikipedia. <https://en.wikipedia.org/wiki/Deep_learning>{:style="word-break: break-word;"}{:target="_blank"}   , retrieved 05/2021
 
-[4] Iris flower data set, Wikipedia. https://en.wikipedia.org/wiki/Iris_flower_data_set , retrieved 05/2021
+[4] Iris flower data set, Wikipedia. <https://en.wikipedia.org/wiki/Iris_flower_data_set>{:style="word-break: break-word;"}{:target="_blank"} , retrieved 05/2021

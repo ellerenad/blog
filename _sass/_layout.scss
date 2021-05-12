@@ -123,6 +123,11 @@ blockquote {
 		.title {
 			font-size: modular-scale(6);
 		}
+		@media only screen and (max-width: $tablet) {
+        	.post-header .title {
+        			font-size: modular-scale(5);
+        	}
+    }
 		.subtitle, .info {
 			font-size: modular-scale(1);
 		}
