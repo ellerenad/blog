@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine learning with Java? Deeplearning4j! </br> Part 1: Intro and training a model"
-date:   2021-05-12T10:26:53+02:00
+date:   2021-05-12T22:26:53+02:00
 author: Enrique Llerena Dominguez
 categories: machine-learning
 tags: software-engineering machine-learning java
