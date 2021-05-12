@@ -4,7 +4,7 @@ title:  "The Fiasco Embedding Tweets in my Blog"
 date:   2021-05-08T22:05:53+02:00
 author: Enrique Llerena Dominguez
 categories: miniblogging
-tags: software_engineering problems solutions miniblogging
+tags: software-engineering problems solutions miniblogging
   
 ---
 

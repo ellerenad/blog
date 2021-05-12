@@ -4,7 +4,7 @@ title:  "Experiments in Agile Software Development Teams"
 date:   2021-04-30T10:26:53+02:00
 author: Enrique Llerena Dominguez
 categories: methodologies
-tags: software_engineering agile methodology
+tags: software-engineering agile methodology
 cover:  "/assets/posts/experimentation-agile/mick-haupt-eQ2Z9ay9Wws-unsplash.jpg"
 cover_credits: Photo by <a href="https://unsplash.com/@rocinante_11?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mick Haupt</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
