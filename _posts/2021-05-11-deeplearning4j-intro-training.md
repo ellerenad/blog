@@ -417,7 +417,7 @@ more specifically at the file [IrisClassifierTrainer.java](https://github.com/el
 I would love to see your tweets with feedback!
 
 <blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">Machine Learning with Java? Deeplearning4j! check out what this library is and how to train an export a model here 
+<p lang="en" dir="ltr">Machine Learning with Java? Deeplearning4j! check out what this library is and how to train and export a model here 
 <a href="https://t.co/xovanvC2G5">https://t.co/xovanvC2G5</a>
 <a href="https://twitter.com/hashtag/java?src=hash&amp;ref_src=twsrc%5Etfw">#java</a> 
 <a href="https://twitter.com/hashtag/SoftwareEngineering?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareEngineering</a> 
