@@ -233,3 +233,16 @@ In this post, we went through the steps on how to use Deeplearning4j to load a t
 All the code for this example can be found at the repository [deeplearning4j-playground](https://github.com/ellerenad/deeplearning4j-playground){:target="_blank"},
 more specifically at the file [IrisClassifierPredictor.java](https://github.com/ellerenad/deeplearning4j-playground/blob/master/src/main/java/dev/ienjoysoftware/classification/IrisClassifierPredictor.java){:target="_blank"}.
 
+
+Do you have comments or questions? send me a tweet!
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Do you want to figure out how to load a trained machine learning model using Java and Deeplearning4j? 
+Have a look at <a href="https://t.co/l4ohlyWykF">https://t.co/l4ohlyWykF</a> , I would be glad to hear about your experience!
+<a href="https://twitter.com/hashtag/IEnjoySoftwareDev?src=hash&amp;ref_src=twsrc%5Etfw">#IEnjoySoftwareDev</a>
+<a href="https://twitter.com/hashtag/java?src=hash&amp;ref_src=twsrc%5Etfw">#java</a> 
+<a href="https://twitter.com/hashtag/machineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#machineLearning</a>
+<a href="https://twitter.com/hashtag/fun?src=hash&amp;ref_src=twsrc%5Etfw">#fun</a> 
+<a href="https://twitter.com/hashtag/softwareEngineering?src=hash&amp;ref_src=twsrc%5Etfw">#softwareEngineering</a></p>
+&mdash; Enrique Llerena Dominguez (@ellerenad) 
+<a href="https://twitter.com/ellerenad/status/1394960326102290435?ref_src=twsrc%5Etfw">May 19, 2021</a></blockquote>
