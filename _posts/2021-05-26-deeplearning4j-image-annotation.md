@@ -209,7 +209,9 @@ the output from the model to annotate the original image. We also saw some limit
 of objects it can detect or that the output is not always accurate.
 
 
-I hope you found this content useful! I would love to hear feedback from you!
+I hope you found this content useful! I would love to hear feedback from you! Send me a Tweet!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do you want to learn how to detect people and objects on images in less than 120 lines of code, using Java and Deeplearning4j? Have a look at this step-by-step guide! Code included ;)<a href="https://t.co/ZQIClNR38D">https://t.co/ZQIClNR38D</a><a href="https://twitter.com/hashtag/IEnjoySoftwareDev?src=hash&amp;ref_src=twsrc%5Etfw">#IEnjoySoftwareDev</a> <a href="https://twitter.com/hashtag/SoftwareEngineering?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareEngineering</a> <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a></p>&mdash; Enrique Llerena Dominguez (@ellerenad) <a href="https://twitter.com/ellerenad/status/1397461131116130304?ref_src=twsrc%5Etfw">May 26, 2021</a></blockquote> 
 
 
 
