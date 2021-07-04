@@ -55,6 +55,13 @@ I am a native spanish speaker, and also speak english and german fluently.
      <td data-title="Links" class="table-col-5"><a href="https://www.eclipsecon.org/2021/news/congratulations-early-speakers" target="_blank">Link</a></td>
    </tr>
    <tr>
+     <td data-title="Date" class="table-col-1">09/2021</td>
+     <td data-title="Title" class="table-col-2">1000 Ways to Run Java in the Cloud ***</td>
+     <td data-title="Event" class="table-col-3">Java Forum Stuttgart</td>
+     <td data-title="Language" class="table-col-4">English</td>
+     <td data-title="Links" class="table-col-5">&nbsp;</td>
+   </tr>
+   <tr>
      <td data-title="Date" class="table-col-1">08/2021</td>
      <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j! ***</td>
      <td data-title="Event" class="table-col-3">Devoxx Poland</td>
