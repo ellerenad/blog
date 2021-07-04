@@ -69,6 +69,13 @@ I am a native spanish speaker, and also speak english and german fluently.
      <td data-title="Links" class="table-col-5"><a href="https://devoxx.pl/talk-details/?id=14201" target="_blank">Link</a></td>
    </tr>
    <tr>
+     <td data-title="Date" class="table-col-1">06/2021</td>
+     <td data-title="Title" class="table-col-2">Hola, AWS Certification World</td>
+     <td data-title="Event" class="table-col-3">AWS Meetup Valencia</td>
+     <td data-title="Language" class="table-col-4">Spanish</td>
+     <td data-title="Links" class="table-col-5"><a href="https://twitter.com/awsvalenciaes/status/1400829378607595527?s=20" target="_blank">Link1</a> <a href="https://twitter.com/awsvalenciaes/status/1403028095188279297?s=20" target="_blank">Link2</a></td>
+   </tr>
+   <tr>
      <td data-title="Date" class="table-col-1">12/2020</td>
      <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j!</td>
      <td data-title="Event" class="table-col-3">Posadev Guadalajara</td>
