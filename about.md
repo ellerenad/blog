@@ -52,70 +52,70 @@ I am a native spanish speaker, and also speak english and german fluently.
      <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j! ***</td>
      <td data-title="Event" class="table-col-3">EclipseCon</td>
      <td data-title="Language" class="table-col-4">English</td>
-     <td data-title="Links" class="table-col-5"><a href="https://www.eclipsecon.org/2021/news/congratulations-early-speakers">Link</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.eclipsecon.org/2021/news/congratulations-early-speakers" target="_blank">Link</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">08/2021</td>
      <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j! ***</td>
      <td data-title="Event" class="table-col-3">Devoxx Poland</td>
      <td data-title="Language" class="table-col-4">English</td>
-     <td data-title="Links" class="table-col-5"><a href="https://devoxx.pl/talk-details/?id=14201">Link</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://devoxx.pl/talk-details/?id=14201" target="_blank">Link</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">12/2020</td>
      <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j!</td>
      <td data-title="Event" class="table-col-3">Posadev Guadalajara</td>
      <td data-title="Language" class="table-col-4">Spanish</td>
-     <td data-title="Links" class="table-col-5"><a href="https://youtube.com/watch?t=58m38s&amp;v=86gGUzXdiyA">Video</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://youtube.com/watch?t=58m38s&amp;v=86gGUzXdiyA" target="_blank">Video</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">09/2020</td>
      <td data-title="Title" class="table-col-2">Machine Learning with Java? Deeplearning4j!</td>
      <td data-title="Event" class="table-col-3">Java Forum Stuttgart</td>
      <td data-title="Language" class="table-col-4">English</td>
-     <td data-title="Links" class="table-col-5"><a href="https://online.java-forum-stuttgart.de/b1/">Video</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://online.java-forum-stuttgart.de/b1/" target="_blank">Video</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">05/2020</td>
      <td data-title="Title" class="table-col-2">Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies</td>
      <td data-title="Event" class="table-col-3">AI Pioneers Meetup</td>
      <td data-title="Language" class="table-col-4">German</td>
-     <td data-title="Links" class="table-col-5"><a href="http://www.youtube.com/watch?v=3BJCXpBOUgM&amp;t=16m26s">Video</a></td>
+     <td data-title="Links" class="table-col-5"><a href="http://www.youtube.com/watch?v=3BJCXpBOUgM&amp;t=16m26s" target="_blank">Video</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">11/2019</td>
      <td data-title="Title" class="table-col-2">Getting Started with Mindsphere – How to close the Gap Between Software and Industry</td>
      <td data-title="Event" class="table-col-3">Mindsphere Meetup Stuttgart</td>
      <td data-title="Language" class="table-col-4">English</td>
-     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=oWWcAps3QB4">Video</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=oWWcAps3QB4" target="_blank">Video</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">10/2019</td>
      <td data-title="Title" class="table-col-2">Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies</td>
      <td data-title="Event" class="table-col-3">EclipseCon Europe 2019</td>
      <td data-title="Language" class="table-col-4">English</td>
-     <td data-title="Links" class="table-col-5"><a href="http://www.youtube.com/watch?v=JWlY6wcq-mY">Video</a> <a href="https://www.eclipsecon.org/europe2019/sessions/prototyping-robot-arm-controller-getting-hands-dirty-learn-new-technologies">Slides</a></td>
+     <td data-title="Links" class="table-col-5"><a href="http://www.youtube.com/watch?v=JWlY6wcq-mY" target="_blank">Video</a> <a href="https://www.eclipsecon.org/europe2019/sessions/prototyping-robot-arm-controller-getting-hands-dirty-learn-new-technologies" target="_blank">Slides</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">07/2019</td>
      <td data-title="Title" class="table-col-2">Prototyping a Robot Arm Controller: Getting the hands dirty to learn new technologies</td>
      <td data-title="Event" class="table-col-3">Java Forum Stuttgart</td>
      <td data-title="Language" class="table-col-4">English</td>
-     <td data-title="Links" class="table-col-5"><a href="https://www.java-forum-stuttgart.de/de/Vortr%E4ge+von+14.30+-+15.15+Uhr.html#D5">Link</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.java-forum-stuttgart.de/de/Vortr%E4ge+von+14.30+-+15.15+Uhr.html#D5" target="_blank">Link</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">10/2011</td>
      <td data-title="Title" class="table-col-2">TV Interview: IXASOFT Enrique Llerena Domínguez en Medios UDG Noticias con Pablo Hernández  </td>
      <td data-title="Event" class="table-col-3">Canal 44 Universidad de Guadalajara</td>
      <td data-title="Language" class="table-col-4">Spanish</td>
-     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=wP9zBDkbT6U">Video</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=wP9zBDkbT6U" target="_blank">Video</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">10/2011</td>
      <td data-title="Title" class="table-col-2">TV Interview: Ixasoft en Canal 6 / A fondo / Enrique Llerena D.  </td>
      <td data-title="Event" class="table-col-3">Canal 6 de Megacable</td>
      <td data-title="Language" class="table-col-4">Spanish</td>
-     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=yfTvWXNrIOE">Video</a></td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.youtube.com/watch?v=yfTvWXNrIOE" target="_blank">Video</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">05/2011</td>
