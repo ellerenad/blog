@@ -10,18 +10,23 @@ main_nav: true
 Hello! I am Enrique Llerena Dominguez, Senior Software Engineer and Tech Lead, currently employed at [mimacom Deutschland GmbH][mimacom]. ([Join us!][mimacomcareer]).
 This is my blog, where I share stuff about my interests, mostly Software Engineering.
 
-I am a well-rounded Senior Software Engineer. My communication skills and empathy enable me to collaborate effectively with interdisciplinary teams and to take the technical leadership whenever it is required, even without an official designation.
+I am a well-rounded, product-minded Senior Software Engineer. My communication skills and empathy enable me to collaborate effectively with interdisciplinary teams and to take the technical leadership whenever it is required, even without an official designation.
 
-From a technical perspective, I focus mainly on backend development, but I have also frontend, DevOps, and cloud computing skills, as well as experience with the design and documentation of the architecture of complex systems. I have worked with agile methodologies. I like to invest time learning other technologies, e.g. machine learning,  and I like presenting talks in conferences, which I have done in English, German and Spanish.
+I like understanding the business context in which the software applications run, as well as the customers using such software because doing so gives me more data to make better-informed decisions, 
+like setting priorities or making architecture decisions. 
+For example, I have paired with the business product owner of our team to create the business model canvas of our product.
 
-**Core technologies**: java,  spring,  python, terraform, aws, angular, SQL.
+From a technical perspective, I focus mainly on backend development, but I have also skills and experience in the areas of architecture, frontend, DevOps, automated testing, and cloud computing. I have experience with agile methodologies.
+I enjoy learning new stuff, e.g. machine learning, and I like presenting talks in conferences, which I have done in English, German and Spanish.
 
-**Interest in:** machine learning,  software architecture,  software engineering,  cloud computing.
+**Core technologies**: Java, Spring, Python, Terraform, AWS, Angular, SQL.
 
-I fell in love with software engineering in high school in 2004 and made my first paid project in 2007. 
+**Interest in:** machine learning, software architecture, software engineering, cloud computing, automated testing, DevOps, product management, engineering management.
+
+I fell in love with Software Engineering during the high school in 2004 and made my first paid project in 2007. 
 
 I also like football (both american and the real one ;) ).
-I am a native spanish speaker, and also speak english and german fluently.
+I am a native Spanish speaker, and also speak English and German fluently.
 
 #### Certifications:
 - iSAQB Certified Professional for Software Architecture - Foundation level
@@ -31,6 +36,7 @@ I am a native spanish speaker, and also speak english and german fluently.
 - Oracle Certified Professional Java Programmer
 - Oracle certified Expert, Web component developer
 - Professional Scrum Master I
+- Certified SAFe® 5 Practitioner
 - telc Deutsch C1
 - TOEFL IBT (English) 
 
