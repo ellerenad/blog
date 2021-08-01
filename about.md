@@ -65,7 +65,7 @@ I am a native Spanish speaker, and also speak English and German fluently.
      <td data-title="Title" class="table-col-2">1000 Ways to Run Java in the Cloud ***</td>
      <td data-title="Event" class="table-col-3">Java Forum Stuttgart</td>
      <td data-title="Language" class="table-col-4">English</td>
-     <td data-title="Links" class="table-col-5">&nbsp;</td>
+     <td data-title="Links" class="table-col-5"><a href="https://www.java-forum-stuttgart.de/vortraege/1000-ways-to-run-java-in-the-cloud/" target="_blank">Link</a></td>
    </tr>
    <tr>
      <td data-title="Date" class="table-col-1">08/2021</td>
