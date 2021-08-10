@@ -16,7 +16,7 @@ Here you can find all the relevant links for the presentation:
 
 - Code: <a href="https://github.com/ellerenad/deeplearning4j-playground" target="_blank">https://github.com/ellerenad/deeplearning4j-playground</a>
 - Presentation: TBD
-
+- Conference page: <a href="https://devoxx.pl/talk-details/?id=14201" target="_blank"> https://devoxx.pl/talk-details/?id=14201 </a>
 
 My contact data:
 
