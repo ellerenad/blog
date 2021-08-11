@@ -11,6 +11,7 @@ tags: software-engineering
 - The basic concepts of the Google Dialogflow are shown
 - A basic agent is created to retrieve facts about Chuck Norris 
 - This is a work in progress
+- resources can be found at <a href="https://cloud.google.com/dialogflow/" target="_blank">https://cloud.google.com/dialogflow/</a>
 
 # What is *my* concept of learning in public?
 
