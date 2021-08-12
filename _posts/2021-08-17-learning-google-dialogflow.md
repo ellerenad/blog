@@ -104,7 +104,7 @@ whereas on the fulfillment editor, webhook and cloud function are mutually exclu
 - I wonder:
   - whether it is easy to test agents this using code / the API
   - how to "debug" agents (why is one intent recognized instead of the other?) 
-k  - how can I deploy the agent? e.g. use it in my mobile or in a smart home device? are there test environments?
+  - how can I deploy the agent? e.g. use it in my mobile or in a smart home device? are there test environments?
 
 # Hands on! Creating a basic agent
 
