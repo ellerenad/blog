@@ -139,16 +139,17 @@ Regarding the required code on the cloud function, the idea is:
 So, the most important parts of the code end up looking like: 
 
 - Map the intent to a function handler
-````
+```javascript
  // Run the proper function handler based on the matched Dialogflow intent name
   let intentMap = new Map();
   intentMap.set('random fact', chuckNorrisFact); // 'random fact' is the intent's name 
   agent.handleRequest(intentMap);
-````
+```
 
 - In such function handler, call the Chuck Norris facts API. 
   - Important to use async/await, otherwise the agent does not show the result of the API call to the user. There might be better ways to do this like with promises, but for this PoC this is ok.
-````
+
+```javascript
  async function chuckNorrisFact(agent){
     console.log("chucknorrisFact: entered function");
     var axios = require("axios").default;
@@ -162,7 +163,7 @@ So, the most important parts of the code end up looking like:
         'x-rapidapi-host': 'matchilling-chuck-norris-jokes-v1.p.rapidapi.com'
       }
     };
-	console.log("chucknorrisFact: about to perform the API call");
+	  console.log("chucknorrisFact: about to perform the API call");
     await axios.request(options).then(function (response) {
       console.log("chucknorrisFact: got a response from the fact call");  
       console.log(response.data);
@@ -173,7 +174,7 @@ So, the most important parts of the code end up looking like:
     });
     console.log("chucknorrisFact: leaving function");
   }
-````
+```
 
 And here you see the test!  🚀🚀🚀
 
