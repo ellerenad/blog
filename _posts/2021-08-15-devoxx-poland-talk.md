@@ -14,16 +14,16 @@ adrenaline shot of presenting again on a scenario - kinda scary too, but you kno
 
 Here you can find all the relevant links for the presentation:
 
-- Code: <a href="https://github.com/ellerenad/deeplearning4j-playground" target="_blank">https://github.com/ellerenad/deeplearning4j-playground</a>
-- Presentation: TBD
-- Conference page: <a href="https://devoxx.pl/talk-details/?id=14201" target="_blank"> https://devoxx.pl/talk-details/?id=14201 </a>
+- Code: <https://github.com/ellerenad/deeplearning4j-playground>{:style="word-break: break-word;"}{:target="_blank"}
+- Presentation: <a href="/assets/posts/devoxx-poland-2021-talk/Machine_Learning_with_Java_Deeplearning4j_devoxx_Poland.pdf" target="_blank"> pdf </a>
+- Conference page: <https://devoxx.pl/talk-details/?id=14201>{:style="word-break: break-word;"}{:target="_blank"}
 
 My contact data:
 
 - Email: <a href="mailto:hello@ienjoysoftware.dev"> hello@ienjoysoftware.dev </a>
-- Twitter: <a href="https://twitter.com/ellerenad" target="_blank"> https://twitter.com/ellerenad </a>
-- Github: <a href="https://github.com/ellerenad" target="_blank"> https://github.com/ellerenad </a>
-- LinkedIn: <a href="https://www.linkedin.com/in/enrique-llerena-dominguez/" target="_blank"> https://www.linkedin.com/in/enrique-llerena-dominguez </a>
-- Blog: <a href="https://ienjoysoftware.dev" target="_blank"> https://ienjoysoftware.dev </a>
+- Twitter: <https://twitter.com/ellerenad>{:style="word-break: break-word;"}{:target="_blank"}
+- Github: <https://github.com/ellerenad>{:style="word-break: break-word;"}{:target="_blank"}
+- LinkedIn: <https://www.linkedin.com/in/enrique-llerena-dominguez/>{:style="word-break: break-word;"}{:target="_blank"}
+- Blog: <https://ienjoysoftware.dev>{:style="word-break: break-word;"}{:target="_blank"}
 
 
