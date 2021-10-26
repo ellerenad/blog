@@ -14,7 +14,7 @@ I'm excited and grateful to have the chance of presenting at the Eclipsecon 2021
 Here you can find all the relevant links for the presentation:
 
 - Code: <https://github.com/ellerenad/deeplearning4j-playground>{:style="word-break: break-word;"}{:target="_blank"}
-- Presentation: pdf - TBD
+- Presentation: <a href="/assets/posts/eclipsecon-2021-talk/Machine_Learning_with_Java_Deeplearning4j_eclipsecon_2021.pdf" target="_blank"> pdf </a> 
 - Conference page: <https://www.eclipsecon.org/2021/sessions/machine-learning-java-deeplearning4j>{:style="word-break: break-word;"}{:target="_blank"}
 
 My contact data:
